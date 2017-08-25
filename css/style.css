@@ -1,0 +1,33 @@
+body {
+  background-color: #99ffff;
+}
+
+
+#iskalnik {
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+
+.image {
+  border: 6px black dotted;
+  padding: 5px;
+}
+
+
+.image:hover {
+  border: 6px red solid;
+}
+
+
+.seznam {
+  color: red;
+  tex-align: left;
+  font-family: verdana;
+}
+
+.j {
+    color: blue;
+    text: strong;
+    }
